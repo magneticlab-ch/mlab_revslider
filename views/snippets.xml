@@ -1,0 +1,14 @@
+<openerp>
+    <data>
+        <!-- 
+            Ajout du snippet dans le webuilder
+            Attention!!! la vue slider doit exister!
+        -->
+        <template id="mlab_snippet" inherit_id="website.snippets" name="Mlab Snippet">
+          <xpath expr="//div[@id='snippet_structure']/div[@class='o_panel_body']" position="inside">
+             <t t-snippet="mlab_revslider.mlab_slider"
+                t-thumbnail="/mlab_revslider/static/src/img/snippets/mlab_slider.png"/>
+          </xpath>
+        </template>
+    </data>
+</openerp>
