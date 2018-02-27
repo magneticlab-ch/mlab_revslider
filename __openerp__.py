@@ -19,8 +19,5 @@
         'views/assets.xml',
         'views/slider.xml',
         'views/snippets.xml',
-    ],
-    'demo': [
-        'demo/demo.xml',
-    ],
+    ]      
 }

@@ -1,4 +1,4 @@
-<openerp>
+<odoo>
     <data>
         <template id="mlab_slider" name="Mlab Slider">
             <section>
@@ -6,891 +6,935 @@
                     <div class="row">
                         <div class="col-md-12">          
                             <div id="discover_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="websitebuilder-discover1" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;min-height:980px">
-<!-- START REVOLUTION SLIDER 5.2.5.3 fullwidth mode -->
-    <div id="discover" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.5.3">
-<ul>    <!-- SLIDE  -->
+                            <!-- START REVOLUTION SLIDER 5.4 fullwidth mode -->
+	<div id="discover" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
     <li data-index="rs-15" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Grid" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-        <!-- MAIN IMAGE -->
-        <img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" />
-        <!-- LAYERS -->
+		<!-- MAIN IMAGE -->
+        <img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg"/>
+		<!-- LAYERS -->
 
-        <!-- LAYER NR. 1 -->
-        <a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
- href="#discover" target="_self"             id="slide-15-layer-16" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;s:300;e:Power2.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);"
+		<!-- LAYER NR. 1 -->
+		<a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
+ href="#discover" target="_self"			 id="slide-15-layer-16" 
+			 data-x="['left','left','left','center']" data-hoffset="['21','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['183','182','212','212']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="250" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-16","delay":""}]'
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-16","delay":""}]'
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 5;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['390px','321px','239px','390px']" data-hh="['340px','280px','208px','340px']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover1.jpg" /> </a>
+            data-frames='[{"from":"y:20px;opacity:0;","speed":1000,"to":"o:1;","delay":250,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power2.easeInOut","to":"o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);zi:11;"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 2 -->
-        <a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
- href="#discover" target="_self"             id="slide-15-layer-17" 
-             data-x="['center','center','center','center']" data-hoffset="['0','0','-1','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','562']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;s:300;e:Power2.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);"
+            style="z-index: 5;cursor:pointer;text-decoration: none;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['390px','321px','239px','390px']" data-hh="['340px','280px','208px','340px']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/a99b2-homepage_09.jpg"/> </a>
+
+		<!-- LAYER NR. 2 -->
+		<a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
+ href="#discover" target="_self"			 id="slide-15-layer-17" 
+			 data-x="['center','center','center','center']" data-hoffset="['2','0','-1','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['182','182','212','562']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="350" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-17","delay":""}]'
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-17","delay":""}]'
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 6;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['390px','321px','239','390']" data-hh="['340px','280px','208','340']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover2.jpg" /> </a>
+            data-frames='[{"from":"y:20px;opacity:0;","speed":1000,"to":"o:1;","delay":350,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power2.easeInOut","to":"o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);zi:11;"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 3 -->
-        <a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
- href="#discover" target="_self"             id="slide-15-layer-18" 
-             data-x="['right','right','right','center']" data-hoffset="['20','20','21','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','912']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;s:300;e:Power2.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);"
+            style="z-index: 6;cursor:pointer;text-decoration: none;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['390px','321px','239','390']" data-hh="['340px','280px','208','340']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/a22ef-homepage_11.jpg"/> </a>
+
+		<!-- LAYER NR. 3 -->
+		<a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
+ href="#discover" target="_self"			 id="slide-15-layer-18" 
+			 data-x="['right','right','right','center']" data-hoffset="['20','20','21','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['182','182','212','912']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="450" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-18","delay":""}]'
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-18","delay":""}]'
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 7;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['390px','321px','239','390px']" data-hh="['695px','570px','426','695px']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover3.jpg" /> </a>
+            data-frames='[{"from":"y:20px;opacity:0;","speed":1000,"to":"o:1;","delay":450,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power2.easeInOut","to":"o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);zi:11;"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 4 -->
-        <a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
- href="#discover" target="_self"             id="slide-15-layer-19" 
-             data-x="['left','left','left','left']" data-hoffset="['20','20','20','45']" 
-             data-y="['top','top','top','top']" data-voffset="['537','475','429','1617']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;s:300;e:Power2.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);"
+            style="z-index: 7;cursor:pointer;text-decoration: none;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['390px','321px','239','390px']" data-hh="['695px','570px','426','695px']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/9d41f-homepage_13.jpg"/> </a>
+
+		<!-- LAYER NR. 4 -->
+		<a class="tp-caption   tp-resizeme  ddd_mousebox tp-rs-menulink" 
+ href="#discover" target="_self"			 id="slide-15-layer-19" 
+			 data-x="['left','left','left','left']" data-hoffset="['20','20','20','45']" 
+			 data-y="['top','top','top','top']" data-voffset="['537','475','429','1617']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="550" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-19","delay":""}]'
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-19","delay":""}]'
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 8;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['795px','653px','488px','390px']" data-hh="['340px','280px','209px','167px']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover4.jpg" /> </a>
+            data-frames='[{"from":"y:20px;opacity:0;","speed":1000,"to":"o:1;","delay":550,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power2.easeInOut","to":"o:1;skX:0px;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);zi:11;"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 5 -->
-        <div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
-             id="slide-15-layer-4" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['336','306','304','366']" 
-                        data-fontsize="['20','20','18','25']"
-            data-lineheight="['30','30','25','30']"
-            data-width="['390','321','239','390']"
-            data-height="none"
-            data-whitespace="['nowrap','nowrap','normal','nowrap']"
-            data-transform_idle="o:1;"
+            style="z-index: 8;cursor:pointer;text-decoration: none;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['795px','653px','488px','390px']" data-hh="['340px','280px','209px','167px']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/91a43-homepage_22.jpg"/> </a>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
+			 id="slide-15-layer-4" 
+			 data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['336','306','304','366']" 
+						data-fontsize="['20','20','18','25']"
+			data-lineheight="['30','30','25','30']"
+			data-width="['390','321','239','390']"
+			data-height="none"
+			data-whitespace="['nowrap','nowrap','normal','nowrap']"
  
-             data-transform_in="y:25px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-25px;opacity:0;s:500;e:Power3.easeInOut;" 
-             data-mask_in="x:0;y:0px;" 
-             data-mask_out="x:0;y:0;s:inherit;e:inherit;" 
-            data-start="550" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 9; min-width: 390px; max-width: 390px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;text-align:center;">CITY PHOTOGRAPHY </div>
+            data-frames='[{"from":"y:25px;opacity:0;","mask":"x:0;y:0px;","speed":800,"to":"o:1;","delay":550,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"y:-25px;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+            data-textAlign="['center','center','center','center']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 6 -->
-        <div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
-             id="slide-15-layer-10" 
-             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-             data-y="['top','top','top','top']" data-voffset="['336','306','304','717']" 
-                        data-fontsize="['20','20','18','25']"
-            data-lineheight="['30','30','25','30']"
-            data-width="['390','321','239','390']"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+            style="z-index: 9; min-width: 390px; max-width: 390px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">DECOUPES DE MOUSSE </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
+			 id="slide-15-layer-10" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['336','306','304','717']" 
+						data-fontsize="['20','20','18','25']"
+			data-lineheight="['30','30','25','30']"
+			data-width="['390','321','239','390']"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:25px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-25px;opacity:0;s:500;e:Power3.easeInOut;" 
-             data-mask_in="x:0;y:0;s:inherit;e:inherit;" 
-             data-mask_out="x:0;y:0;s:inherit;e:inherit;" 
-            data-start="650" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 10; min-width: 390px; max-width: 390px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;text-align:center;">FASHION TRENDS </div>
+            data-frames='[{"from":"y:25px;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","speed":800,"to":"o:1;","delay":650,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"y:-25px;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+            data-textAlign="['center','center','center','center']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 7 -->
-        <div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
-             id="slide-15-layer-14" 
-             data-x="['right','right','right','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['336','306','304','1067']" 
-                        data-fontsize="['20','20','18','25']"
-            data-lineheight="['30','30','25','30']"
-            data-width="['390','321','239','390']"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+            style="z-index: 10; min-width: 390px; max-width: 390px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">EMBALLAGES LUXE </div>
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
+			 id="slide-15-layer-14" 
+			 data-x="['right','right','right','center']" data-hoffset="['20','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['326','306','304','1067']" 
+						data-fontsize="['20','20','18','25']"
+			data-lineheight="['30','30','25','30']"
+			data-width="['390','321','239','390']"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:25px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-25px;opacity:0;s:500;e:Power3.easeInOut;" 
-             data-mask_in="x:0;y:0;s:inherit;e:inherit;" 
-             data-mask_out="x:0;y:0;s:inherit;e:inherit;" 
-            data-start="750" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 11; min-width: 390px; max-width: 390px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;text-align:center;">TECHNOLOGICAL<br/>ADVANTAGE </div>
+            data-frames='[{"from":"y:25px;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","speed":800,"to":"o:1;","delay":750,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"y:-25px;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+            data-textAlign="['center','center','center','center']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 8 -->
-        <div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
-             id="slide-15-layer-20" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['691','597','521','1685']" 
-                        data-fontsize="['20','20','18','25']"
-            data-lineheight="['30','30','25','30']"
-            data-width="['795','653','488','390']"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+            style="z-index: 11; min-width: 390px; max-width: 390px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">CARTONS<br/>IMPRIMES </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-resizeme  nopointerevent rs-parallaxlevel-1" 
+			 id="slide-15-layer-20" 
+			 data-x="['left','left','left','center']" data-hoffset="['19','22','20','-1']" 
+			 data-y="['top','top','top','top']" data-voffset="['595','517','453','1721']" 
+						data-fontsize="['20','20','18','25']"
+			data-lineheight="['30','30','25','30']"
+			data-fontweight="['400','300','300','300']"
+			data-width="['795','653','488','390']"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:25px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-25px;opacity:0;s:500;e:Power3.easeInOut;" 
-             data-mask_in="x:0;y:0;s:inherit;e:inherit;" 
-             data-mask_out="x:0;y:0;s:inherit;e:inherit;" 
-            data-start="850" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 12; min-width: 795px; max-width: 795px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;text-align:center;">NATURAL EXPLORATION </div>
-    </li>
-    <!-- SLIDE  -->
+            data-frames='[{"from":"y:25px;opacity:0;","mask":"x:0;y:0;","speed":800,"to":"o:1;","delay":850,"ease":"Power4.easeOut"},{"delay":"wait","speed":500,"to":"y:-25px;opacity:0;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+            data-textAlign="['center','center','center','center']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
+            style="z-index: 12; min-width: 795px; max-width: 795px; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">FLIGHTCASES </div>
+	</li>
+	<!-- SLIDE  -->
     <li data-index="rs-16" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-invisible="true"  data-title="Item 1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-        <!-- MAIN IMAGE -->
-        <img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" />
-        <!-- LAYERS -->
+		<!-- MAIN IMAGE -->
+        <img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg"/>
+		<!-- LAYERS -->
 
-        <!-- LAYER NR. 1 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-16-layer-1" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-16-layer-1" 
+			 data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="500" 
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 5;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover1_detail-1.jpg" /> </div>
+            data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 2 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-16-layer-6" 
-             data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 5;cursor:pointer;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/7c6b5-slider1_detail-1.jpg"/> </div>
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-16-layer-6" 
+			 data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="650" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-19","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_left_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-19","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_left_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":650,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 6; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 3 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-16-layer-7" 
-             data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-16-layer-7" 
+			 data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-17","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_right_24px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-17","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_right_24px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 7; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 4 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-16-layer-3" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
-                        data-fontsize="['50','50','40','30']"
-            data-lineheight="['50','50','40','30']"
-            data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 12 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-16-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
+						data-fontsize="['50','50','40','30']"
+			data-lineheight="['50','50','40','30']"
+			data-fontweight="['700','900','900','900']"
+			data-width="['480','480','400','320']"
+			data-height="none"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="750" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;">PROJECT CITY PHOTOGRAPHY </div>
+            data-frames='[{"delay":750,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 5 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-16-layer-4" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['514','484','384','367']" 
-                        data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">DECOUPES DE MOUSSE </div>
+
+		<!-- LAYER NR. 13 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-16-layer-4" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['514','484','384','367']" 
+						data-fontweight="['400','700','700','700']"
+			data-width="['480','480','400','320']"
+			data-height="none"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="800" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 9; min-width: 480px; max-width: 480px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 700; color: rgba(255, 255, 255, 0.75);font-family:Lato;">Bring to the table win-win survival strategies to ensure proactive domination. </div>
+            data-frames='[{"delay":800,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 6 -->
-        <a class="tp-caption rev-btn  tp-resizeme" 
- href="https://revolution.themepunch.com/examples/" target="_blank"          id="slide-16-layer-5" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['600','570','459','467']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"
+            style="z-index: 9; min-width: 480px; max-width: 480px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: rgba(255, 255, 255, 0.75);font-family:Titillium Web;">Le respect de vos produits se traduit par le meilleur des emballages.
+ Sécurité, ergonomie et esthétique. </div>
+
+		<!-- LAYER NR. 14 -->
+		<a class="tp-caption rev-btn  tp-resizeme" 
+ href="/mousses" target="_self"			 id="slide-16-layer-5" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['600','570','459','467']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-10px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="850" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-actions=''
-            data-responsive_offset="on" 
+            data-type="button" 
+			data-actions=''
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Lato;background-color:rgba(0, 173, 208, 1.00);padding:0px 28px 0px 28px;border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Visit Project Website </a>
+            data-frames='[{"delay":850,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-10px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[28,28,28,28]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[28,28,28,28]"
 
-        <!-- LAYER NR. 7 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-16-layer-2" 
-             data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
-             data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;background-color:rgba(0, 173, 208, 1.00);border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px 2px 2px 2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Découvrez quelques exemples </a>
+
+		<!-- LAYER NR. 15 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-16-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
+			 data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:10px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_close_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_close_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"y:10px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 11; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
-    </li>
-    <!-- SLIDE  -->
+	</li>
+	<!-- SLIDE  -->
     <li data-index="rs-17" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-invisible="true"  data-title="Item 2" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-        <!-- MAIN IMAGE -->
-        <img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" />
-        <!-- LAYERS -->
+		<!-- MAIN IMAGE -->
+        <img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg"/>
+		<!-- LAYERS -->
 
-        <!-- LAYER NR. 1 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-17-layer-1" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 16 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-17-layer-1" 
+			 data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="500" 
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 5;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover2_detail-1.jpg" /> </div>
+            data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 2 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-17-layer-6" 
-             data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 5;cursor:pointer;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/discover3_detail.jpg"/> </div>
+
+		<!-- LAYER NR. 17 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-17-layer-6" 
+			 data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="650" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-16","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_left_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-16","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_left_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":650,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 6; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 3 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-17-layer-7" 
-             data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+		<!-- LAYER NR. 18 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-17-layer-7" 
+			 data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-18","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_right_24px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-18","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_right_24px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 7; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 4 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-17-layer-3" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
-                        data-fontsize="['50','50','40','30']"
-            data-lineheight="['50','50','40','30']"
-            data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 19 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-17-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
+						data-fontsize="['50','50','40','30']"
+			data-lineheight="['50','50','40','30']"
+			data-fontweight="['700','900','900','900']"
+			data-width="['615','480','400','320']"
+			data-height="['151','none','none','none']"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="750" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;">PROJECT FASHION TRENDS </div>
+            data-frames='[{"delay":750,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 5 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-17-layer-4" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['514','484','384','367']" 
-                        data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+            style="z-index: 8; min-width: 615px; max-width: 615px; max-width: 151px; max-width: 151px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">QUELQUE CHOSE DE PRECIEUX A EMBALLER ? </div>
+
+		<!-- LAYER NR. 20 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-17-layer-4" 
+			 data-x="['left','left','left','left']" data-hoffset="['61','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['514','484','384','367']" 
+						data-fontweight="['400','700','700','700']"
+			data-width="['559','480','400','320']"
+			data-height="['76','none','none','none']"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="800" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 9; min-width: 480px; max-width: 480px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 700; color: rgba(255, 255, 255, 0.75);font-family:Lato;">Bring to the table win-win survival strategies to ensure proactive domination. </div>
+            data-frames='[{"delay":800,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 6 -->
-        <a class="tp-caption rev-btn  tp-resizeme" 
- href="https://revolution.themepunch.com/examples/" target="_blank"          id="slide-17-layer-5" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['600','570','459','467']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"
+            style="z-index: 9; min-width: 559px; max-width: 559px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: rgba(255, 255, 255, 0.75);font-family:Titillium Web;">Notre travail soigné est apprécié des grandes marques. 
+Grands groupes, Manufactures et Artisants nous font confiance. </div>
+
+		<!-- LAYER NR. 21 -->
+		<a class="tp-caption rev-btn  tp-resizeme" 
+ href="/ecrins" target="_self"			 id="slide-17-layer-5" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['600','570','459','467']" 
+						data-fontweight="['600','700','700','700']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-10px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="850" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-actions=''
-            data-responsive_offset="on" 
+            data-type="button" 
+			data-actions=''
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Lato;background-color:rgba(0, 173, 208, 1.00);padding:0px 28px 0px 28px;border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Visit Project Website </a>
+            data-frames='[{"delay":850,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-10px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[28,28,28,28]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[28,28,28,28]"
 
-        <!-- LAYER NR. 7 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-17-layer-2" 
-             data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
-             data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 600; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;background-color:rgba(0, 173, 208, 1.00);border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px 2px 2px 2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Quelques réalisations </a>
+
+		<!-- LAYER NR. 22 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-17-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
+			 data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:10px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_close_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_close_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"y:10px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 11; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
-    </li>
-    <!-- SLIDE  -->
+	</li>
+	<!-- SLIDE  -->
     <li data-index="rs-18" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-invisible="true"  data-title="Item 3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-        <!-- MAIN IMAGE -->
-        <img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" />
-        <!-- LAYERS -->
+		<!-- MAIN IMAGE -->
+        <img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg"/>
+		<!-- LAYERS -->
 
-        <!-- LAYER NR. 1 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-18-layer-1" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 23 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-18-layer-1" 
+			 data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="500" 
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 5;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover3_detail.jpg" /> </div>
+            data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 2 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-18-layer-6" 
-             data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 5;cursor:pointer;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/f195e-homepage3.jpg"/> </div>
+
+		<!-- LAYER NR. 24 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-18-layer-6" 
+			 data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="650" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-17","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_left_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-17","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_left_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":650,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 6; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 3 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-18-layer-7" 
-             data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+		<!-- LAYER NR. 25 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-18-layer-7" 
+			 data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-19","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_right_24px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-19","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_right_24px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 7; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 4 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-18-layer-3" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
-                        data-fontsize="['50','50','40','30']"
-            data-lineheight="['50','50','40','30']"
-            data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 26 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-18-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
+						data-fontsize="['50','50','40','30']"
+			data-lineheight="['50','50','40','30']"
+			data-fontweight="['700','900','900','900']"
+			data-width="['480','480','400','320']"
+			data-height="none"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="750" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;">PROJECT TECHNOLOGICAL ADVANTAGE </div>
+            data-frames='[{"delay":750,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 5 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-18-layer-4" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['564','534','425','397']" 
-                        data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">IMPRESSION NUMERIQUE </div>
+
+		<!-- LAYER NR. 27 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-18-layer-4" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['564','534','425','397']" 
+						data-fontweight="['400','700','700','700']"
+			data-width="['480','480','400','320']"
+			data-height="none"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="800" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 9; min-width: 480px; max-width: 480px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 700; color: rgba(255, 255, 255, 0.75);font-family:Lato;">Bring to the table win-win survival strategies to ensure proactive domination. </div>
+            data-frames='[{"delay":800,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 6 -->
-        <a class="tp-caption rev-btn  tp-resizeme" 
- href="https://revolution.themepunch.com/examples/" target="_blank"          id="slide-18-layer-5" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['649','619','500','497']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"
+            style="z-index: 9; min-width: 480px; max-width: 480px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: rgba(255, 255, 255, 0.75);font-family:Titillium Web;">Nous produisons et fournissons tout type d'emballage imprimé. </div>
+
+		<!-- LAYER NR. 28 -->
+		<a class="tp-caption rev-btn  tp-resizeme" 
+ href="/impressions" target="_self"			 id="slide-18-layer-5" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['649','619','500','497']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-10px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="850" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-actions=''
-            data-responsive_offset="on" 
+            data-type="button" 
+			data-actions=''
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Lato;background-color:rgba(0, 173, 208, 1.00);padding:0px 28px 0px 28px;border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Visit Project Website </a>
+            data-frames='[{"delay":850,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-10px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[28,28,28,28]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[28,28,28,28]"
 
-        <!-- LAYER NR. 7 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-18-layer-2" 
-             data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
-             data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;background-color:rgba(0, 173, 208, 1.00);border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px 2px 2px 2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Quelques réalisations </a>
+
+		<!-- LAYER NR. 29 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-18-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
+			 data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:10px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_close_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_close_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"y:10px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 11; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
-    </li>
-    <!-- SLIDE  -->
+	</li>
+	<!-- SLIDE  -->
     <li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-invisible="true"  data-title="Item 4" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-        <!-- MAIN IMAGE -->
-        <img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" />
-        <!-- LAYERS -->
+		<!-- MAIN IMAGE -->
+        <img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" style='background-color:#eeeeee' alt=""  data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/transparent.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg"/>
+		<!-- LAYERS -->
 
-        <!-- LAYER NR. 1 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-19-layer-1" 
-             data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 30 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-19-layer-1" 
+			 data-x="['left','left','left','center']" data-hoffset="['20','20','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['182','182','212','212']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:20px;opacity:0;s:1000;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="500" 
-            data-responsive_offset="on" 
+            data-type="image" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 5;cursor:pointer;"><img src="/mlab_revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="/mlab_revslider/static/src/plugin/rev_slider/assets/discover4_detail.jpg" /> </div>
+            data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"y:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 2 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-19-layer-6" 
-             data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 5;cursor:pointer;"><img src="odoo-revslider/static/src/plugin/rev_slider/assets/dummy.png" alt="" data-ww="['1200px','984','738px','1200']" data-hh="['695px','570','427px','695']" data-lazyload="odoo-revslider/static/src/plugin/rev_slider/assets/81456-flightcase.jpg"/> </div>
+
+		<!-- LAYER NR. 31 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-19-layer-6" 
+			 data-x="['left','left','left','left']" data-hoffset="['45','45','20','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="650" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-18","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_left_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-18","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_left_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":650,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 6; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 3 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-19-layer-7" 
-             data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
-             data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+		<!-- LAYER NR. 32 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-19-layer-7" 
+			 data-x="['left','left','left','left']" data-hoffset="['84','84','60','40']" 
+			 data-y="['top','top','top','top']" data-voffset="['330','300','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-16","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_chevron_right_24px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-16","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_chevron_right_24px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 7; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
 
-        <!-- LAYER NR. 4 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-19-layer-3" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
-                        data-fontsize="['50','50','40','30']"
-            data-lineheight="['50','50','40','30']"
-            data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 33 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-19-layer-3" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['400','370','290','290']" 
+						data-fontsize="['50','50','40','30']"
+			data-lineheight="['50','50','40','30']"
+			data-fontweight="['700','900','900','900']"
+			data-width="['480','480','400','320']"
+			data-height="none"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="750" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 900; color: rgba(255, 255, 255, 1.00);font-family:Lato;">PROJECT NATURAL EXPLORATION </div>
+            data-frames='[{"delay":750,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 5 -->
-        <div class="tp-caption   tp-resizeme" 
-             id="slide-19-layer-4" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['514','484','385','367']" 
-                        data-width="['480','480','400','320']"
-            data-height="none"
-            data-whitespace="normal"
-            data-transform_idle="o:1;"
+            style="z-index: 8; min-width: 480px; max-width: 480px; white-space: normal; font-size: 50px; line-height: 50px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;">MANUFACTURE DE 
+FLIGHTCASES </div>
+
+		<!-- LAYER NR. 34 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-19-layer-4" 
+			 data-x="['left','left','left','left']" data-hoffset="['56','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['514','484','385','367']" 
+						data-fontweight="['400','700','700','700']"
+			data-width="['516','480','400','320']"
+			data-height="['77','none','none','none']"
+			data-whitespace="normal"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-20px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="800" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 9; min-width: 480px; max-width: 480px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 700; color: rgba(255, 255, 255, 0.75);font-family:Lato;">Bring to the table win-win survival strategies to ensure proactive domination. </div>
+            data-frames='[{"delay":800,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-20px;opacity:0;","ease":"Power2.easeInOut"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 6 -->
-        <a class="tp-caption rev-btn  tp-resizeme" 
- href="https://revolution.themepunch.com/examples/" target="_blank"          id="slide-19-layer-5" 
-             data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
-             data-y="['top','top','top','top']" data-voffset="['599','569','460','467']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"
+            style="z-index: 9; min-width: 516px; max-width: 516px; max-width: 77px; max-width: 77px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: rgba(255, 255, 255, 0.75);font-family:Titillium Web;">Nous fabriquons l'intérieur et l'extérieur selon vos contraintes. Découvrez aussi nos FlightCases étanches ! </div>
+
+		<!-- LAYER NR. 35 -->
+		<a class="tp-caption rev-btn  tp-resizeme" 
+ href="/flightcases" target="_self"			 id="slide-19-layer-5" 
+			 data-x="['left','left','left','left']" data-hoffset="['60','60','40','20']" 
+			 data-y="['top','top','top','top']" data-voffset="['599','569','460','467']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="x:20px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="y:-10px;opacity:0;s:300;e:Power2.easeInOut;" 
-            data-start="850" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-actions=''
-            data-responsive_offset="on" 
+            data-type="button" 
+			data-actions=''
+			data-responsive_offset="on" 
 
-            
-            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Lato;background-color:rgba(0, 173, 208, 1.00);padding:0px 28px 0px 28px;border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Visit Project Website </a>
+            data-frames='[{"delay":850,"speed":800,"frame":"0","from":"x:20px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"y:-10px;opacity:0;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bg:rgba(255, 255, 255, 0);bc:rgba(255, 255, 255, 1.00);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[28,28,28,28]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[28,28,28,28]"
 
-        <!-- LAYER NR. 7 -->
-        <div class="tp-caption   tp-resizeme tp-svg-layer" 
-             id="slide-19-layer-2" 
-             data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
-             data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
-                        data-width="60"
-            data-height="60"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
-                data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:150;e:Power1.easeInOut;"
-                data-style_hover="c:rgba(255, 255, 255, 0.75);"
+            style="z-index: 10; white-space: nowrap; font-size: 16px; line-height: 42px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Titillium Web;background-color:rgba(0, 173, 208, 1.00);border-color:rgba(0, 173, 208, 1.00);border-style:solid;border-width:2px 2px 2px 2px;border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Quelques réalisations </a>
+
+		<!-- LAYER NR. 36 -->
+		<div class="tp-caption   tp-resizeme tp-svg-layer" 
+			 id="slide-19-layer-2" 
+			 data-x="['right','right','right','right']" data-hoffset="['30','30','30','10']" 
+			 data-y="['top','top','top','top']" data-voffset="['192','192','222','222']" 
+						data-width="60"
+			data-height="60"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:10px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="auto:auto;s:500;e:Power2.easeInOut;" 
-            data-start="700" 
-            data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
-            data-svg_src="http://cdf-emballage.ch/revslider/revslider/public/assets/assets/svg/navigation/ic_close_36px.svg" 
+            data-type="svg" 
+			data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-15","delay":""}]'
+            data-svg_src="odoo-revslider/static/src/plugin/rev_slider/assets/ic_close_36px.svg" 
             data-svg_idle="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
-            data-responsive_offset="on" 
+			data-svg_hover="sc:transparent;sw:0;sda:0;sdo:0;" 
+			data-responsive_offset="on" 
 
-            
+            data-frames='[{"delay":700,"speed":800,"frame":"0","from":"y:10px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":500,"frame":"999","to":"auto:auto;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 0.75);"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
             style="z-index: 11; min-width: 60px; max-width: 60px; max-width: 60px; max-width: 60px; color: rgba(255, 255, 255, 1.00);cursor:pointer;"> </div>
-    </li>
+	</li>
 </ul>
 <div style="" class="tp-static-layers">
 
-        <!-- LAYER NR. 1 -->
-        <div class="tp-caption   tp-resizeme tp-static-layer" 
-             id="slider-5-layer-1" 
-             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-             data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
-                        data-width="none"
-            data-height="none"
-            data-whitespace="nowrap"
-            data-transform_idle="o:1;"
+		<!-- LAYER NR. 37 -->
+		<div class="tp-caption   tp-resizeme tp-static-layer" 
+			 id="slider-5-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['70','70','70','70']" 
+						data-fontweight="['400','700','700','700']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
  
-             data-transform_in="y:10px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="opacity:0;s:300;" 
-            data-start="0" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            data-startslide="0" 
-            data-endslide="4" 
-            
-            style="z-index: 5; white-space: nowrap; font-size: 30px; line-height: 40px; font-weight: 700; color: rgba(69, 69, 69, 1.00);font-family:Lato;">MLAB REVSLIDER </div>
+			data-startslide="0" 
+			data-endslide="4" 
+            data-frames='[{"from":"y:10px;opacity:0;","speed":800,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+            data-textAlign="['left','left','left','left']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
 
-        <!-- LAYER NR. 2 -->
-        <div class="tp-caption   tp-resizeme tp-static-layer" 
-             id="slider-5-layer-2" 
-             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-             data-y="['top','top','top','top']" data-voffset="['119','119','119','119']" 
-                        data-width="['none','none','480','360']"
-            data-height="none"
-            data-whitespace="['nowrap','nowrap','normal','normal']"
-            data-transform_idle="o:1;"
+            style="z-index: 41; white-space: nowrap; font-size: 30px; line-height: 40px; font-weight: 400; color: rgba(69, 69, 69, 1.00);font-family:Titillium Web;">CDF EMBALLAGE SA </div>
+
+		<!-- LAYER NR. 38 -->
+		<div class="tp-caption   tp-resizeme tp-static-layer" 
+			 id="slider-5-layer-2" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['119','119','119','119']" 
+						data-width="['none','none','480','360']"
+			data-height="none"
+			data-whitespace="['nowrap','nowrap','normal','normal']"
  
-             data-transform_in="y:10px;opacity:0;s:800;e:Power4.easeOut;" 
-             data-transform_out="opacity:0;s:300;" 
-            data-start="100" 
-            data-splitin="none" 
-            data-splitout="none" 
-            data-responsive_offset="on" 
+            data-type="text" 
+			data-responsive_offset="on" 
 
-            data-startslide="0" 
-            data-endslide="4" 
-            
-            style="z-index: 6; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 400; color: rgba(136, 136, 136, 1.00);font-family:Lato;text-align:center;">Intégration de REVOLUTION SLIDER dans ODOO par MAGNETICLAB</div>
+			data-startslide="0" 
+			data-endslide="4" 
+            data-frames='[{"from":"y:10px;opacity:0;","speed":800,"to":"o:1;","delay":100,"ease":"Power4.easeOut"},{"delay":"wait","speed":300,"to":"opacity:0;","ease":"nothing"}]'
+            data-textAlign="['center','center','center','center']"
+            data-paddingtop="[0,0,0,0]"
+            data-paddingright="[0,0,0,0]"
+            data-paddingbottom="[0,0,0,0]"
+            data-paddingleft="[0,0,0,0]"
+
+            style="z-index: 42; white-space: nowrap; font-size: 20px; line-height: 30px; font-weight: 400; color: rgba(136, 136, 136, 1.00);font-family:Titillium Web;">Manufacture d'emballages depuis 1978 </div>
 </div>
-<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div> </div>
-</div>                          
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+                            </div>                          
                         </div>                         
                     </div>
                 </div>
             </section>
         </template>        
     </data>
-</openerp>
+</odoo>

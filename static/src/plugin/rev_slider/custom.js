@@ -17,7 +17,8 @@ jsFileLocation:"//cdf-emballage.ch/revslider/revslider/public/assets/js/",
 						viewPort: {
 							enable:true,
 							outof:"wait",
-							visible_area:"80%"
+                            visible_area:"80%",
+                            presize:false
 						},
 						responsiveLevels:[1240,1024,778,480],
 						visibilityLevels:[1240,1024,778,480],
@@ -29,7 +30,6 @@ jsFileLocation:"//cdf-emballage.ch/revslider/revslider/public/assets/js/",
 							origo:"slidercenter",
 							speed:400,
 							levels:[5,20,30,40,50,-4,-6,-8,45,46,47,48,49,50,51,55],
-							type:"scroll",
 							disable_onmobile:"on"
 						},
 						shadow:0,

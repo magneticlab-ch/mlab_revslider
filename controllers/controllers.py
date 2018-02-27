@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from openerp import http
+from odoo import http
 
 # class MlabRevslider(http.Controller):
 #     @http.route('/mlab_revslider/mlab_revslider/', auth='public')
